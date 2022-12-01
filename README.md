@@ -39,5 +39,4 @@ Primary results for Planning with CLT are shown below. Map complexity and abstra
   maintitle = {AAAI Conference on Artificial Intelligence},
   booktitle = {Workshop on Thinking Fast and Slow and Other Cognitive Theories in AI},
 }
-
 ```
