@@ -18,20 +18,8 @@ An agent is placed on an unfamiliar map, where only labels specifying types of l
 </p>
   
 ## Preparation
-1. Download the [GROCERY STORE](https://github.com/marcusklasson/GroceryStoreDataset) and [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) datasets and put in the `./minecraft/utils/data/` folder.
-2. Run **./minecraft/utils/get_features.py** to extract features into the `./minecraft/utils/features/` folder.
-3. Download [Project Malmo](https://github.com/microsoft/malmo). See note below.
+Download [Project Malmo](https://github.com/microsoft/malmo). Make sure that the version of Project Malmo corresponds to the version of Python. We found Python 3.6 to be the easiest to use.   
 
-## Notes
-+ Make sure that the version of Project Malmo corresponds to the version of Python. We found Python 3.6 to be the easiest to use.   
-+ This test could easily be extended to other datsets. The steps above would be the same; however, data-specific files need to be added to the `./minecraft/utils/` folder (as currently done). Specific adjustments include: 
-  + Tabulating the fine and coarse labels in **./minecraft/utils/env/[data]-labels.xlsx**
-  + Running a script **./minecraft/utils/get_env-[data].py** to get item placement as **./minecraft/utils/env/[data]-mapping.xlsx**
-  + Searching for any data-specific references in the current code. There should not be many.
-+ There are two ways to run the simulation. 
-  + The **./minecraft/quick-test.py** runs a single process, plotting in real time the potential field for navigation. 
-  + The **./minecraft/main.py** runs the full test of specified test conditions, for which you can specify the number of processors you would like to use.
-  
 ## Results
 Our results for FSCIL-ACS in Minecraft are shown below. Active class selection and classifier (CBCL-PR or SVM) are varied.
 <p align="center">
