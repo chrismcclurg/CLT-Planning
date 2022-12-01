@@ -16,7 +16,7 @@ An agent is placed on an unfamiliar map, where only labels specifying types of l
 </p>
   
 ## Preparation
-Download [Project Malmo](https://github.com/microsoft/malmo). Make sure that the version of Project Malmo corresponds to the version of Python. We found Python 3.6 to be the easiest to use.   
+**Download [Project Malmo](https://github.com/microsoft/malmo).** Make sure that the version of Project Malmo corresponds to the version of Python. We found Python 3.6 to be the easiest to use.   
 
 ## Results
 Our results for FSCIL-ACS in Minecraft are shown below. Active class selection and classifier (CBCL-PR or SVM) are varied.
