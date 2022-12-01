@@ -20,7 +20,7 @@ An agent is placed on an unfamiliar map, where only labels specifying types of l
 **2. Download [numberbatch](https://github.com/commonsense/conceptnet-numberbatch).** Place the most recent mini.h5 file in the `./utils/` folder. Rename to numberbatch.h5.
 
 ## Results
-Our primary results for Planning with CLT are shown below. Map complexity and abstraction type are varied. Please see the paper for more results.  
+Primary results for Planning with CLT are shown below. Map complexity and abstraction type are varied. Please see the paper for more results.  
 <p align="center">
   <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/planning_results.png" width=40% height=40%> 
 </p>
