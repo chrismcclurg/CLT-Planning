@@ -16,7 +16,8 @@ An agent is placed on an unfamiliar map, where only labels specifying types of l
 </p>
   
 ## Preparation
-**Download [Project Malmo](https://github.com/microsoft/malmo).** The downloaded version should match the version of Python. We found Python 3.6 to be the easiest to use.   
+**1. Download [Project Malmo](https://github.com/microsoft/malmo).** The downloaded version should match the version of Python. We found Python 3.6 to be the easiest to use.   
+**2. Download [numberbatch](https://github.com/commonsense/conceptnet-numberbatch).** Place the most recent mini.h5 file in the `./utils/` folder. Rename to numberbatch.h5.
 
 ## Results
 Our results for Planning with CLT are shown below. Map complexity and abstraction type are varied.
