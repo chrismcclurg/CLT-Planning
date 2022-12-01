@@ -32,5 +32,12 @@ Primary results for Planning with CLT are shown below. Map complexity and abstra
 
 ## If you consider citing us
 ```
-This paper is currently in review. 
+@inproceedings{mcclurg2022construal,
+  author    = {McClurg, Christopher and Wagner, Alan R. and Rajtmajer, Sarah},
+  title     = {{Construal Level Theory for Agent-based Planning}},
+  year      = {2022},
+  maintitle = {AAAI Conference on Artificial Intelligence},
+  booktitle = {Workshop on Thinking Fast and Slow and Other Cognitive Theories in AI},
+}
+
 ```
