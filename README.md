@@ -19,7 +19,7 @@ An agent is placed on an unfamiliar map, where only labels specifying types of l
 **Download [Project Malmo](https://github.com/microsoft/malmo).** The downloaded version should match the version of Python. We found Python 3.6 to be the easiest to use.   
 
 ## Results
-Our results for FSCIL-ACS in Minecraft are shown below. Map complexity and abstraction type are varied.
+Our results for Planning with CLT in Minecraft are shown below. Map complexity and abstraction type are varied.
 <p align="center">
   <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/planning_results.png" width=40% height=40%> 
 </p>
