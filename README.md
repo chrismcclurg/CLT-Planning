@@ -14,7 +14,7 @@ An agent is placed on an unfamiliar map, where only labels specifying types of l
 </p>
 
 <p align="center">
-  <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/iso.png" width=50% height=50%> 
+  <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/iso.png" width=40% height=40%> <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/map.png" width=40% height=40%> 
 </p>
   
 ## Preparation
