@@ -9,9 +9,7 @@ Construal level theory (CLT) suggests that a person creates abstract mental repr
   <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/flowchart.png" width=80% height=80%> 
 </p>
 
-<p align ="justify">
 An agent is placed on an unfamiliar map, where only labels specifying types of locations (e.g. farm, house, etc.) and the agent's position on the map are known. The agent's task is to obtain the ingredients needed to make an item. The agent must find the ingredient, or find the ingredients necessary to make the ingredient, etc. Our construal process allows the agent to generate predictions about where an item or ingredient is placed in the world from exogenous general-purpose knowledge provided by [ConceptNet](https://conceptnet.io/) and to then form alternate plans of action to obtain the item or ingredient. Please see the paper for more details.  
-</p>
 
 <p align="center">
   <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/iso.png" width=40% height=40%> <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/map.png" width=40% height=40%> 
