@@ -21,7 +21,7 @@ An agent is placed on an unfamiliar map, where only labels specifying types of l
 ## Results
 Our results for FSCIL-ACS in Minecraft are shown below. Map complexity and abstraction type are varied.
 <p align="center">
-  <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/planning_results.png" width=80% height=80%> 
+  <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/planning_results.png" width=40% height=40%> 
 </p>
 
 ## Reference
