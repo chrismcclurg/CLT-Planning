@@ -26,8 +26,9 @@ Our results for Planning with CLT are shown below. Map complexity and abstractio
 </p>
 
 ## Reference
-+ We build from CBCL-PR, an extension of [CBCL](https://github.com/aliayub7/CBCL).
++ We build from clustering methods used in [CBCL](https://github.com/aliayub7/CBCL).
 + We use the [Project Malmo](https://github.com/microsoft/malmo) platform for Minecraft testing. Additional resources can be found on Discord.
++ We incorporate both [ConceptNet](https://conceptnet.io/) and [numberbatch](https://github.com/commonsense/conceptnet-numberbatch). For more information, see the Concepnet [wiki](https://github.com/commonsense/conceptnet5/wiki).
 
 ## If you consider citing us
 ```
