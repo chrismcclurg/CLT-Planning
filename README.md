@@ -4,7 +4,7 @@ Construal level theory (CLT) suggests that a person creates abstract mental repr
 </p>
 
 <p align="center">
-  <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/minecraft_flowchart.png" width=80% height=80%> 
+  <img src="https://github.com/chrismcclurg/CLT-Planning/blob/main/img/flowchart.png" width=80% height=80%> 
 </p>
   
 ## Preparation
